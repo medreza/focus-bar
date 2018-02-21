@@ -1,0 +1,14 @@
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\bin\Debug\focus-bar.exe.config
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\obj\Debug\focus_bar.Form1.resources
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\obj\Debug\focus_bar.Properties.Resources.resources
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\obj\Debug\focus-bar.csproj.GenerateResource.Cache
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\bin\Debug\focus-bar.exe
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\bin\Debug\focus-bar.pdb
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\obj\Debug\focus-bar.exe
+c:\users\smart\documents\visual studio 2015\Projects\skimming-ruler\skimming-ruler\obj\Debug\focus-bar.pdb
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\fokus-bar\focus-bar\bin\Debug\focus-bar.exe.config
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\fokus-bar\focus-bar\obj\Debug\focus-bar.exe
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\fokus-bar\focus-bar\obj\Debug\focus-bar.pdb
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\bin\Debug\focus-bar.exe.config
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus-bar.exe
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus-bar.pdb
