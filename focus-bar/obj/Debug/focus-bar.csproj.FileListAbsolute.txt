@@ -12,3 +12,9 @@ C:\Users\Smart\Documents\Visual Studio 2015\Projects\fokus-bar\focus-bar\obj\Deb
 C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\bin\Debug\focus-bar.exe.config
 C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus-bar.exe
 C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus-bar.pdb
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\bin\Debug\focus-bar.exe
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\bin\Debug\focus-bar.pdb
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus-bar.csprojResolveAssemblyReference.cache
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus_bar.Properties.Resources.resources
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus-bar.csproj.GenerateResource.Cache
+C:\Users\Smart\Documents\Visual Studio 2015\Projects\focus-bar\focus-bar\obj\Debug\focus_bar.Global.resources

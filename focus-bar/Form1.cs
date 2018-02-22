@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Copyright (C) 2018. Written by Ahmed Reza Rafsanzani | github.com/medreza | rza272@gmail.com
+// Check MIT License for usage.
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,8 +14,14 @@ using System.Windows.Forms;
 
 namespace focus_bar
 {
+    public static class Global
+    {
+        public static int formCount { get; set; }
+    }
+
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
@@ -40,7 +49,7 @@ namespace focus_bar
 
             base.WndProc(ref m);
         }
-
+        
         private void button1_Click(object sender, EventArgs e)
         {
             this.TopMost = false;
@@ -49,7 +58,24 @@ namespace focus_bar
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Global.formCount -= 1;
+            Console.WriteLine(Global.formCount);
             this.Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (Global.formCount >= 4)
+            {
+                MessageBox.Show("For you convenience, we cannot create more than 5 bars :)", "Sorry", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            } else
+            {
+                Form1 newForm = new Form1();
+                newForm.Show();
+                Global.formCount += 1;
+                newForm.button2.Text = "Close";
+                Console.WriteLine(Global.formCount);
+            }
         }
     }
 }
